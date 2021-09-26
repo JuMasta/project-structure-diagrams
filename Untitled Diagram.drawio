@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-12T00:19:23.502Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="iDzx-WyjGmyDTJT84tVp" version="15.1.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-09-26T15:24:39.499Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="Rc16yI-Y6auW1R4SSXcG" version="15.2.5" type="github" pages="2">
   <diagram id="KnE0DojCTduFjPBjx93h" name="Project structure">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -37,7 +37,7 @@
         <mxCell id="tBqzJ4MgUW6KoWlNYG0D-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="91.25" y="110" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="tBqzJ4MgUW6KoWlNYG0D-28" value="NGINX&lt;br&gt;(PROXY)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="tBqzJ4MgUW6KoWlNYG0D-28" value="NGINX&lt;br&gt;(PROXY/&lt;br&gt;STATIC)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="131.25" y="130" width="40" height="25" as="geometry" />
         </mxCell>
       </root>
